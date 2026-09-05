@@ -1,9 +1,9 @@
-# Ladybird
+# Hermes
 
-[Ladybird](https://ladybird.org) is a truly independent web browser, using a novel engine based on web standards.
+[Hermes] is a truly inclusive web browser.
 
 > [!IMPORTANT]
-> Ladybird is in a pre-alpha state, and only suitable for use by developers
+> Hermes is in a pre-alpha state, and only suitable for use by developers
 >
 
 ## Features
@@ -33,22 +33,12 @@ At the moment, many core library support components are inherited from SerenityO
 
 See [build instructions](Documentation/BuildInstructionsLadybird.md) for information on how to build Ladybird.
 
-Ladybird runs on Linux, macOS, Windows (with WSL2), and many other \*Nixes.
+Hermes runs on Linux, and macOS
 
 ## How do I read the documentation?
 
 Code-related documentation can be found in the [documentation](Documentation/) folder.
 
-## Get in touch and participate!
-
-Join [our Discord server](https://discord.gg/nvfjVJ4Svh) to participate in issue and development discussions.
-
-Please read [Getting involved with Ladybird](Documentation/GettingStartedContributing.md) if you're new to Ladybird and want to help.
-
-Before opening an issue, please see the [issue policy](CONTRIBUTING.md#issue-policy) and the [detailed issue-reporting guidelines](ISSUES.md).
-
-The project participation guidelines can be found in [`CONTRIBUTING.md`](CONTRIBUTING.md).
-
 ## License
 
-Ladybird is licensed under a 2-clause BSD license.
+Hermes is licensed under the GNU General Public License Version 3
